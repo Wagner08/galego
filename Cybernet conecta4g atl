@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.1",
+  "Version": "1.0.2",
   "ReleaseNotes": "",
   "UrlUpdate": "https://raw.githubusercontent.com/Wagner08/galego/main/Cybernet%20conecta4g%20atl",
   "Sms": "https://raw.githubusercontent.com/Wagner08/galego/main/Cybernet%20conecta4g%20sms",
@@ -26,11 +26,11 @@
   ],
   "Servers": [
     {
-      "Name": "Servidor Br",
+      "Name": "Servidor Brasil",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "www.meirassnet.xyz",
-      "CheckUser": "http://20.226.54.83:5454/checkUser",
+      "CheckUser": "http://cyber.meirassnet.xyz:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
