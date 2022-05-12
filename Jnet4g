@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.3",
+  "Version": "1.0.4",
   "ReleaseNotes": "novidades na claro 01 e 02. Testem!!",
   "UrlUpdate": "https://raw.githubusercontent.com/Wagner08/galego/main/Jnet4g",
   "Sms": "https://raw.githubusercontent.com/Wagner08/galego/main/Jnet4g%20sms",
@@ -26,7 +26,7 @@
   ],
   "Servers": [
     {
-      "Name": "Servidor brasil",
+      "Name": "Servidor brasil³",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "br.jnetsuper.xyz",
