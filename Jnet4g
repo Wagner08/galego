@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.5",
-  "ReleaseNotes": "novidades na claro 01, 02, 04. Testem!!",
+  "Version": "1.0.6",
+  "ReleaseNotes": "novidades na claro 01. Testem!!",
   "UrlUpdate": "https://raw.githubusercontent.com/Wagner08/galego/main/Jnet4g",
   "Sms": "https://raw.githubusercontent.com/Wagner08/galego/main/Jnet4g%20sms",
   "EmailFeedback": "",
@@ -81,9 +81,9 @@
     {
       "Name": "CLARO 1",
       "FLAG": "claro",
-      "Payload": "GET wss://mobilidade.cloud.caixa.gov.br/ HTTP/1.1[crlf]Host: br.jnetsuper.xyz[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
-      "SNI": "mobilidade.cloud.caixa.gov.br",
-      "TlsIP": "162.159.133.62",
+      "Payload": "GET wss://atendimento.descomplica.com.br HTTP/1.1[crlf]Host: www.meirassnet.xyz[crlf]Upgrade: covid[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "atendimento.descomplica.com.br",
+      "TlsIP": "no.descomplica.com.br",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
