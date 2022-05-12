@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.4",
-  "ReleaseNotes": "novidades na claro 01 e 02. Testem!!",
+  "Version": "1.0.5",
+  "ReleaseNotes": "novidades na claro 01, 02, 04. Testem!!",
   "UrlUpdate": "https://raw.githubusercontent.com/Wagner08/galego/main/Jnet4g",
   "Sms": "https://raw.githubusercontent.com/Wagner08/galego/main/Jnet4g%20sms",
   "EmailFeedback": "",
@@ -111,9 +111,9 @@
     {
       "Name": "CLARO 4",
       "FLAG": "claro",
-      "Payload": "GET wss://no.descomplica.com.br HTTP/1.1[crlf]Host: [app_host][crlf]X-Forward-Host: [app_host][crlf]Connection: upgrade[crlf]upgrade: websocket[crlf] CONNECT [host_port][protocol][crlf][crlf]",
-      "SNI": "no.descomplica.com.br",
-      "TlsIP": "no.descomplica.com.br",
+      "Payload": "GET wss://content.akross.com.br HTTP/1.1[crlf]Host: [app_host][crlf]X-Forward-Host: [app_host][crlf]Connection: upgrade[crlf]upgrade: websocket[crlf] CONNECT [host_port][protocol][crlf][crlf]",
+      "SNI": "content.akross.com.br",
+      "TlsIP": "content.akross.com.br",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
