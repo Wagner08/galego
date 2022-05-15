@@ -81,7 +81,7 @@
     {
       "Name": "CLARO 1",
       "FLAG": "claro",
-      "Payload": "GET wss://atendimento.descomplica.com.br HTTP/1.1[crlf]Host: www.meirassnet.xyz[crlf]Upgrade: covid[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "GET wss://atendimento.descomplica.com.br HTTP/1.1[crlf]Host: br.jnetsuper.xyz[crlf]Upgrade: covid[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "atendimento.descomplica.com.br",
       "TlsIP": "no.descomplica.com.br",
       "ProxyIP": "",
