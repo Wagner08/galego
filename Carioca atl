@@ -1,7 +1,7 @@
 {
   "Version": "1.0.0",
   "ReleaseNotes": "",
-  "UrlUpdate": "https://raw.githubusercontent.com/Wagner08/servidor/main/Meirasnet4g%20atl",
+  "UrlUpdate": "https://raw.githubusercontent.com/Wagner08/galego/main/Carioca%20atl",
   "Sms": "",
   "EmailFeedback": "",
   "UrlContato": "",
@@ -26,7 +26,7 @@
   ],
   "Servers": [
     {
-      "Name": "Servidor Br³",
+      "Name": "Servidor Br¹",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "32.cariocamafiadostutors.xyz",
