@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.8",
+  "Version": "1.0.9",
   "ReleaseNotes": "novidades na Tim. Testem!!",
   "UrlUpdate": "https://raw.githubusercontent.com/Wagner08/galego/main/Jnet4g",
   "Sms": "https://raw.githubusercontent.com/Wagner08/galego/main/Jnet4g%20sms",
@@ -183,9 +183,9 @@
       "FLAG": "tim",
       "Payload": "GET wss://bobcontents.bennuapp.com.br HTTP/1.1[crlf]Host: br.jnetsuper.xyz[crlf]Connection: Keep-alive[crlf]Upgrade: ws[crlf][crlf]",
       "SNI": "bobcontents.bennuapp.com.br",
-      "TlsIP": "",
+      "TlsIP": "104.18.239.79",
       "ProxyIP": "104.18.239.79",
-      "ProxyPort": "80",
+      "ProxyPort": "",
       "Info": "Tlsws"
     },
     {
