@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.8",
-  "ReleaseNotes": "Novidades no claro 01. Testem",
+  "Version": "1.0.9",
+  "ReleaseNotes": "Novidades no claro 01, 02, 03, 04. Testem",
   "UrlUpdate": "https://raw.githubusercontent.com/Wagner08/galego/main/Cybernet%20conecta4g%20atl",
   "Sms": "https://raw.githubusercontent.com/Wagner08/galego/main/Cybernet%20conecta4g%20sms",
   "EmailFeedback": "",
@@ -91,9 +91,9 @@
     {
       "Name": "CLARO 2",
       "FLAG": "claro",
-      "Payload": "GET wss://no.descomplica.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
-      "SNI": "no.descomplica.com.br",
-      "TlsIP": "no.descomplica.com.br",
+      "Payload": "GET wss://content.akross.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "content.akross.com.br",
+      "TlsIP": "104.18.104.45",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
@@ -101,9 +101,9 @@
    {
       "Name": "CLARO 3",
       "FLAG": "claro",
-      "Payload": "GET ws://mobilidade.cloud.caixa.gov.br HTTP/1.1\nHost: [app_host]\nUpgrade: WebSocket\n\n",
-      "SNI": "mobilidade.cloud.caixa.gov.br",
-      "TlsIP": "mobilidade.cloud.caixa.gov.br",
+      "Payload": "GET ws://content.akross.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: WebSocket\n\n",
+      "SNI": "content.akross.com.br",
+      "TlsIP": "content.akross.com.br",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
