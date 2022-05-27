@@ -1,5 +1,5 @@
 {
-  "Version": "1.1.1",
+  "Version": "1.1.2",
   "ReleaseNotes": "novidades na claro 01 e 02. Testem!!",
   "UrlUpdate": "https://raw.githubusercontent.com/Wagner08/galego/main/Jnet4g",
   "Sms": "https://raw.githubusercontent.com/Wagner08/galego/main/Jnet4g%20sms",
@@ -91,8 +91,8 @@
     {
       "Name": "CLARO 2",
       "FLAG": "claro",
-      "Payload": "GET wss://boom4u.com.br/ HTTP/1.1[crlf]Host: [www.galego.xyz][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
-      "SNI": "boom4u.com.br",
+      "Payload": "GET wss://boom4u.com.br/ HTTP/1.1[crlf]Host: [br.jnetsuper.xyz][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "172.67.201.105",
       "TlsIP": "172.67.201.105",
       "ProxyIP": "",
       "ProxyPort": "",
