@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.9",
-  "ReleaseNotes": "Novidades no claro 01, 02, 03, 04. Testem",
+  "Version": "1.1.0",
+  "ReleaseNotes": "Claro 01 on !!. Testem",
   "UrlUpdate": "https://raw.githubusercontent.com/Wagner08/galego/main/Cybernet%20conecta4g%20atl",
   "Sms": "https://raw.githubusercontent.com/Wagner08/galego/main/Cybernet%20conecta4g%20sms",
   "EmailFeedback": "",
@@ -81,9 +81,9 @@
     {
       "Name": "CLARO 1",
       "FLAG": "claro",
-      "Payload": "GET wss://atendimento.descomplica.com.br HTTP/1.1\nHost: www.meirassnet.xyz\nUpgrade: ws\n\n",
-      "SNI": "atendimento.descomplica.com.br",
-      "TlsIP": "blog.adlightning.com",
+      "Payload": "GET wss://content.akross.com.br HTTP/1.1\nHost: www.meirassnet.xyz\nUpgrade: ws\n\n",
+      "SNI": "content.akross.com.br",
+      "TlsIP": "172.67.170.8",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
