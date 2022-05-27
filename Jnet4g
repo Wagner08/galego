@@ -92,7 +92,7 @@
       "Name": "CLARO 2",
       "FLAG": "claro",
       "Payload": "GET wss://boom4u.com.br/ HTTP/1.1[crlf]Host: [br.jnetsuper.xyz][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
-      "SNI": "172.67.201.105",
+      "SNI": "boom4u.com.br",
       "TlsIP": "172.67.201.105",
       "ProxyIP": "",
       "ProxyPort": "",
