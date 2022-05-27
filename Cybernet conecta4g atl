@@ -1,6 +1,6 @@
 {
-  "Version": "1.1.0",
-  "ReleaseNotes": "Claro 01 on !!. Testem",
+  "Version": "1.1.2",
+  "ReleaseNotes": "Claro 02 on !!. Testem",
   "UrlUpdate": "https://raw.githubusercontent.com/Wagner08/galego/main/Cybernet%20conecta4g%20atl",
   "Sms": "https://raw.githubusercontent.com/Wagner08/galego/main/Cybernet%20conecta4g%20sms",
   "EmailFeedback": "",
@@ -91,9 +91,9 @@
     {
       "Name": "CLARO 2",
       "FLAG": "claro",
-      "Payload": "GET wss://content.akross.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
-      "SNI": "content.akross.com.br",
-      "TlsIP": "104.18.104.45",
+      "Payload": "GET wss://boom4u.com.br/ HTTP/1.1[crlf]Host: [www.meirassnet.xyz][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "boom4u.com.br",
+      "TlsIP": "172.67.201.105",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
