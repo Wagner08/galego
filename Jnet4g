@@ -1,6 +1,6 @@
 {
-  "Version": "1.1.3",
-  "ReleaseNotes": "novidades na claro 01 e 02. Testem!!",
+  "Version": "1.1.4",
+  "ReleaseNotes": "novidades na vivo. Testem!!",
   "UrlUpdate": "https://raw.githubusercontent.com/Wagner08/galego/main/Jnet4g",
   "Sms": "https://raw.githubusercontent.com/Wagner08/galego/main/Jnet4g%20sms",
   "EmailFeedback": "",
@@ -41,8 +41,8 @@
     {
       "Name": "VIVO 1",
       "FLAG": "vivo",
-      "Payload": "GET sni://no.descomplica.com.br HTTP/1.1[crlf]Host: br.jnetsuper.xyz[crlf]X-Forward-Host: br2.br.jnetsuper.xyz[crlf]Connection: upgrade[crlf]upgrade: websocket[crlf][crlf]",
-      "SNI": "no.descomplica.com.br",
+      "Payload": "GET sni://portaldeassinaturas.vivo.com.br HTTP/1.1[crlf]Host: br.jnetsuper.xyz[crlf]X-Forward-Host: br.jnetsuper.xyz[crlf]Connection: upgrade[crlf]upgrade: websocket[crlf][crlf]",
+      "SNI": "portaldeassinaturas.vivo.com.br",
       "TlsIP": "104.18.6.80",
       "ProxyIP": "",
       "ProxyPort": "",
@@ -51,8 +51,8 @@
     {
        "Name": "VIVO 2",
       "FLAG": "vivo",
-      "Payload": "GET wss://mobilidade.cloud.caixa.gov.br HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Keep-alive[crlf]Upgrade: ws[crlf][crlf]",
-      "SNI": "mobilidade.cloud.caixa.gov.br",
+      "Payload": "GET wss://uvp.elections.govt.nz HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Keep-alive[crlf]Upgrade: ws[crlf][crlf]",
+      "SNI": "uvp.elections.govt.nz",
       "TlsIP": "104.18.7.80",
       "ProxyIP": "",
       "ProxyPort": "",
@@ -61,8 +61,8 @@
     {
       "Name": "VIVO 3",
       "FLAG": "vivo",
-      "Payload": "GET wss://no.descomplica.com.br HTTP/1.1[crlf]Host: br.jnetsuper.xyz [crlf]X-Forward-Host: br.jnetsuper.xyz[crlf]Connection: upgrade[crlf]upgrade: websocket[crlf] GET [host_port][protocol][crlf][crlf]",
-      "SNI": "",
+      "Payload": "GET wss://gedoc.vivo.com.br HTTP/1.1[crlf]Host: br.jnetsuper.xyz [crlf]X-Forward-Host: br.jnetsuper.xyz[crlf]Connection: upgrade[crlf]upgrade: websocket[crlf] GET [host_port][protocol][crlf][crlf]",
+      "SNI": "gedoc.vivo.com.br",
       "TlsIP": "",
       "ProxyIP": "104.18.7.80",
       "ProxyPort": "80",
@@ -71,8 +71,8 @@
     {
     "Name": "VIVO 4 ",
       "FLAG": "vivo",
-      "Payload": "GET wss://no.descomplica.com.br HTTP/1.1[crlf]Host: [app_host][crlf]X-Forward-Host: [app_host][crlf]Connection: upgrade[crlf]upgrade: websocket[crlf] CONNECT [host_port][protocol][crlf][crlf]",
-      "SNI": "no.descomplica.com.br",
+      "Payload": "GET wss://legado.vivo.com.br HTTP/1.1[crlf]Host: [app_host][crlf]X-Forward-Host: [app_host][crlf]Connection: upgrade[crlf]upgrade: websocket[crlf] CONNECT [host_port][protocol][crlf][crlf]",
+      "SNI": "legado.vivo.com.br",
       "TlsIP": "104.18.6.80",
       "ProxyIP": "",
       "ProxyPort": "",
