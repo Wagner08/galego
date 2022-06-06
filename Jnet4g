@@ -163,7 +163,7 @@
       "FLAG": "tim",
       "Payload": "GET wss://assistentetim.com.br HTTP/1.1[crlf]Host: br.jnetsuper.xyz[crlf]Connection: Keep-alive[crlf]Upgrade: ws[crlf][crlf]",
       "SNI": "assistentetim.com.br",
-      "TlsIP": "104.26.5.175",
+      "TlsIP": "172.67.165.192",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
@@ -204,7 +204,7 @@
       "FLAG": "tim",
       "Payload": "GET wss://static.r4you.co HTTP/1.1[crlf]Host: br.jnetsuper.xyz[crlf]Connection: Keep-alive[crlf]Upgrade: ws[crlf][crlf]",
       "SNI": "static.r4you.co",
-      "TlsIP": "172.67.165.192",
+      "TlsIP": "104.26.5.175",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
