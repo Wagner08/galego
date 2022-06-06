@@ -1,6 +1,6 @@
 {
-  "Version": "1.1.9",
-  "ReleaseNotes": "novidade na claro 05!!. Testem",
+  "Version": "1.2.0",
+  "ReleaseNotes": "novidade na claro 01 e no Tim 01 e 05!!. Testem",
   "UrlUpdate": "https://raw.githubusercontent.com/Wagner08/galego/main/Cybernet%20conecta4g%20atl",
   "Sms": "https://raw.githubusercontent.com/Wagner08/galego/main/Cybernet%20conecta4g%20sms",
   "EmailFeedback": "",
@@ -81,9 +81,9 @@
     {
       "Name": "CLARO 1",
       "FLAG": "claro",
-      "Payload": "GET wss://content.akross.com.br HTTP/1.1\nHost: www.meirassnet.xyz\nUpgrade: ws\n\n",
-      "SNI": "content.akross.com.br",
-      "TlsIP": "172.67.170.8",
+      "Payload": "GET wss://icanhazip.com/ HTTP/1.1[crlf]Host: www.meirassnet.xyz[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "icanhazip.com",
+      "TlsIP": "icanhazip.com",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
