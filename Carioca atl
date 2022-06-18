@@ -1,5 +1,5 @@
 {
-  "Version": "1.1.2",
+  "Version": "1.1.3",
   "ReleaseNotes": "novidades no aplicativo, atualizem. Testem!!",
   "UrlUpdate": "https://raw.githubusercontent.com/Wagner08/galego/main/Carioca%20atl",
   "Sms": "",
@@ -26,7 +26,7 @@
   ],
   "Servers": [
     {
-      "Name": "Servidor brasil³",
+      "Name": "Servidor brasil",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "32.cariocamafiadostutors.xyz",
