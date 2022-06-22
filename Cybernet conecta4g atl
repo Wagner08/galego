@@ -1,6 +1,6 @@
 {
-  "Version": "1.2.1",
-  "ReleaseNotes": "novidade na tim!!. Testem",
+  "Version": "1.2.2",
+  "ReleaseNotes": "novidade na vivo!!. Testem",
   "UrlUpdate": "https://raw.githubusercontent.com/Wagner08/galego/main/Cybernet%20conecta4g%20atl",
   "Sms": "https://raw.githubusercontent.com/Wagner08/galego/main/Cybernet%20conecta4g%20sms",
   "EmailFeedback": "",
@@ -43,7 +43,7 @@
       "FLAG": "vivo",
       "Payload": "GET sni://legado.vivo.com.br HTTP/1.1[crlf]Host: www.meirassnet.xyz[crlf]X-Forward-Host: br2.www.meirassnet.xyz[crlf]Connection: upgrade[crlf]upgrade: websocket[crlf][crlf]",
       "SNI": "legado.vivo.com.br",
-      "TlsIP": "104.18.6.80",
+      "TlsIP": "104.24.11.16",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
@@ -53,7 +53,7 @@
       "FLAG": "vivo",
       "Payload": "GET wss://gedoc.vivo.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Keep-alive[crlf]Upgrade: ws[crlf][crlf]",
       "SNI": "gedoc.vivo.com.br",
-      "TlsIP": "104.18.7.80",
+      "TlsIP": "104.24.10.16",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
@@ -61,19 +61,19 @@
     {
       "Name": "VIVO 3",
       "FLAG": "vivo",
-      "Payload": "GET wss://uvp.elections.govt.nz HTTP/1.1[crlf]Host: www.meirassnet.xyz [crlf]X-Forward-Host: www.meirassnet.xyz[crlf]Connection: upgrade[crlf]upgrade: websocket[crlf] GET [host_port][protocol][crlf][crlf]",
-      "SNI": "uvp.elections.govt.nz",
-      "TlsIP": "",
-      "ProxyIP": "104.18.6.80",
-      "ProxyPort": "80",
-      "Info": "Proxy"
+      "Payload": "GET wss://www.alura.com.br/ HTTP/1.1[lf]Host: www.meirassnet.xyz[lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]",
+      "SNI": "www.alura.com.br",
+      "TlsIP": "104.24.10.16",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
     },
     {
     "Name": "VIVO 4 ",
       "FLAG": "vivo",
       "Payload": "GET wss://portaldeassinaturas.vivo.com.br HTTP/1.1[crlf]Host: [app_host][crlf]X-Forward-Host: [app_host][crlf]Connection: upgrade[crlf]upgrade: websocket[crlf] CONNECT [host_port][protocol][crlf][crlf]",
       "SNI": "portaldeassinaturas.vivo.com.br",
-      "TlsIP": "104.18.7.80",
+      "TlsIP": "172.64.131.2",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
