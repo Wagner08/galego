@@ -1,5 +1,5 @@
 {
-  "Version": "2.0.0",
+  "Version": "2.0.1",
   "ReleaseNotes": "novidades na vivo",
   "UrlUpdate": "https://raw.githubusercontent.com/Wagner08/galego/main/Jnet4g",
   "Sms": "https://raw.githubusercontent.com/Wagner08/galego/main/Jnet4g%20sms",
@@ -64,7 +64,7 @@
       "Payload": "GET wss://gedoc.vivo.com.br HTTP/1.1[crlf]Host: br.jnetsuper.xyz [crlf]X-Forward-Host: br.jnetsuper.xyz[crlf]Connection: upgrade[crlf]upgrade: websocket[crlf] GET [host_port][protocol][crlf][crlf]",
       "SNI": "gedoc.vivo.com.br",
       "TlsIP": "",
-      "ProxyIP": "104.18.7.80",
+      "ProxyIP": "104.24.11.16",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
@@ -73,7 +73,7 @@
       "FLAG": "vivo",
       "Payload": "GET wss://legado.vivo.com.br HTTP/1.1[crlf]Host: [app_host][crlf]X-Forward-Host: [app_host][crlf]Connection: upgrade[crlf]upgrade: websocket[crlf] CONNECT [host_port][protocol][crlf][crlf]",
       "SNI": "legado.vivo.com.br",
-      "TlsIP": "104.18.6.80",
+      "TlsIP": "104.24.11.16",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
