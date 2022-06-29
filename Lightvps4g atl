@@ -14,7 +14,7 @@
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "www.lightvps.tk",
-      "CheckUser": "",
+      "CheckUser": "http://br.lightvps.tk:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
