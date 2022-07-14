@@ -1,6 +1,6 @@
 {
-  "Version": "2.0.4",
-  "ReleaseNotes": "novidade na vivo!!. Testem",
+  "Version": "2.0.5",
+  "ReleaseNotes": "novidade na TIM ATT2!!. Testem",
   "UrlUpdate": "https://raw.githubusercontent.com/Wagner08/galego/main/Cybernet%20conecta4g%20atl",
   "Sms": "https://raw.githubusercontent.com/Wagner08/galego/main/Cybernet%20conecta4g%20sms",
   "EmailFeedback": "",
@@ -913,7 +913,7 @@
       "FLAG": "tim",
       "Payload": "GET ssl://cdn.c6bank.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: ws [crlf][crlf]",
       "SNI": "cdn.c6bank.com.br",
-      "TlsIP": "cdn.c6bank.com.br",
+      "TlsIP": " 104.16.236.16",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
