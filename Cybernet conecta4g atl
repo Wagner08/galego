@@ -1,5 +1,5 @@
 {
-  "Version": "2.0.6",
+  "Version": "2.0.7",
   "ReleaseNotes": "novidade na TIM e vivo. atualizem somente se nao estiver conseguindo conectar",
   "UrlUpdate": "https://raw.githubusercontent.com/Wagner08/galego/main/Cybernet%20conecta4g%20atl",
   "Sms": "https://raw.githubusercontent.com/Wagner08/galego/main/Cybernet%20conecta4g%20sms",
@@ -278,6 +278,16 @@
       "ProxyPort": "",
       "Info": "Tlsws"
      },
+      {
+      "Name": "TIM 81",
+      "FLAG": "tim",
+      "Payload": "GET wss://static.r4you.co HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
+      "SNI": "static.r4you.co",
+      "TlsIP": "104.26.5.175",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+    },
     {
       "Name": "Operadora TIM ATT3",
       "FLAG": "tim",
