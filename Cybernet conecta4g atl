@@ -1,6 +1,6 @@
 {
-  "Version": "3.0.4",
-  "ReleaseNotes": "novidade na vivo. As opções 🛑🛑VIVO SV2🛑🛑, só vão conectar utilizando o servidor 02 na opção de servidores.Testem",
+  "Version": "3.0.5",
+  "ReleaseNotes": "novidade na vivo. As opções 🛑🛑VIVO SV2🛑🛑, só vão conectar utilizando o servidor 02 na opção de servidores.Testem. ADICIONADO TIM NOVO 01",
   "UrlUpdate": "https://raw.githubusercontent.com/Wagner08/galego/main/Cybernet%20conecta4g%20atl",
   "Sms": "https://raw.githubusercontent.com/Wagner08/galego/main/Cybernet%20conecta4g%20sms",
   "EmailFeedback": "",
@@ -140,11 +140,11 @@
       "Info": "Tlsws"
    },
 {
-  "Name": "Operadora TIM ATT1",
+  "Name": "Operadora TIM NOVO 01",
       "FLAG": "tim",
-      "Payload": "GET ssl://static.r4you.co HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: ws [crlf][crlf]",
-      "SNI": "static.r4you.co",
-      "TlsIP": "104.26.5.175",
+      "Payload": "GET wss://blog.alura.com.br/ HTTP/1.1[crlf]Host: www.meirassnet.xyz[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf],
+      "SNI": "blog.alura.com.br",
+      "TlsIP": "blog.alura.com.br",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
