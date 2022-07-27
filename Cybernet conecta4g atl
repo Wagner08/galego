@@ -1,5 +1,5 @@
 {
-  "Version": "3.0.7",
+  "Version": "3.0.8",
   "ReleaseNotes": "novidade na vivo. As opções 🛑🛑VIVO SV2🛑🛑, Claro 02 só vão conectar utilizando o servidor 02 na opção de servidores.Testem. ADICIONADO TIM NOVO 01",
   "UrlUpdate": "https://raw.githubusercontent.com/Wagner08/galego/main/Cybernet%20conecta4g%20atl",
   "Sms": "https://raw.githubusercontent.com/Wagner08/galego/main/Cybernet%20conecta4g%20sms",
@@ -142,7 +142,7 @@
 {
   "Name": "Operadora TIM NOVO 01",
       "FLAG": "tim",
-      "Payload": "GET wss://blog.alura.com.br/ HTTP/1.1[crlf]Host: www.meirassnet.xyz[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf],
+      "Payload": "GET wss://blog.alura.com.br/ HTTP/1.1[crlf]Host: www.meirassnet.xyz[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "blog.alura.com.br",
       "TlsIP": "blog.alura.com.br",
       "ProxyIP": "",
