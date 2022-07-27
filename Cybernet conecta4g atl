@@ -1,5 +1,5 @@
 {
-  "Version": "3.0.3",
+  "Version": "3.0.4",
   "ReleaseNotes": "novidade na vivo. As opções 🛑🛑VIVO SV2🛑🛑, só vão conectar utilizando o servidor 02 na opção de servidores.Testem",
   "UrlUpdate": "https://raw.githubusercontent.com/Wagner08/galego/main/Cybernet%20conecta4g%20atl",
   "Sms": "https://raw.githubusercontent.com/Wagner08/galego/main/Cybernet%20conecta4g%20sms",
@@ -44,8 +44,8 @@
       "CheckUser": "",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "12342",
-      "PASS": "12342"
+      "USER": "T100",
+      "PASS": "T100"
     }
   ],
   "Networks": [
