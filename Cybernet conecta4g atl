@@ -1,5 +1,5 @@
 {
-  "Version": "3.0.9",
+  "Version": "3.1.0",
   "ReleaseNotes": "novidade na vivo. As opções 🛑🛑VIVO SV2🛑🛑, Claro 02 só vão conectar utilizando o servidor 02 na opção de servidores.Testem. ADICIONADO TIM NOVO 01",
   "UrlUpdate": "https://raw.githubusercontent.com/Wagner08/galego/main/Cybernet%20conecta4g%20atl",
   "Sms": "https://raw.githubusercontent.com/Wagner08/galego/main/Cybernet%20conecta4g%20sms",
@@ -145,7 +145,7 @@
       "Payload": "GET / HTTP/1.1[crlf]Host: d29fpe702nm50d.cloudfront.net [crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "4.icanhazip.com",
-      "ProxyIP": "108.139.166.18",
+      "ProxyIP": "108.139.166.8",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
