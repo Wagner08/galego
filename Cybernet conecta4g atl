@@ -1,6 +1,6 @@
 {
-  "Version": "3.0.2",
-  "ReleaseNotes": "novidade na vivo. Testem",
+  "Version": "3.0.3",
+  "ReleaseNotes": "novidade na vivo. As opções 🛑🛑VIVO SV2🛑🛑, só vão conectar utilizando o servidor 02 na opção de servidores.Testem",
   "UrlUpdate": "https://raw.githubusercontent.com/Wagner08/galego/main/Cybernet%20conecta4g%20atl",
   "Sms": "https://raw.githubusercontent.com/Wagner08/galego/main/Cybernet%20conecta4g%20sms",
   "EmailFeedback": "",
@@ -35,7 +35,7 @@
       "SSLPort": "443",
       "USER": "",
       "PASS": ""
-    }
+    },
 {
       "Name": "SERVIDOR 02",
       "TYPE": "premium",
@@ -46,7 +46,7 @@
       "SSLPort": "443",
       "USER": "12342",
       "PASS": "12342"
-    },
+    }
   ],
   "Networks": [
 {
@@ -70,7 +70,7 @@
       "Info": "Proxy"
     },
 {
-      "Name": "💜VIVO SV2",
+      "Name": "🛑🛑VIVO SV2🛑🛑",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: d29fpe702nm50d.cloudfront.net [crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
@@ -80,7 +80,7 @@
       "Info": "Proxy"
 },
 {
-"Name": "💜VIVO SV2",
+"Name": "🛑🛑VIVO SV2🛑🛑",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: http://d29fpe702nm50d.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
