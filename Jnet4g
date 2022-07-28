@@ -35,7 +35,7 @@
       "SSLPort": "443",
       "USER": "",
       "PASS": ""
-    }
+    },
   {
       "Name": "SERVIDOR 02",
       "TYPE": "premium",
@@ -44,9 +44,9 @@
       "CheckUser": "",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "12342",
-      "PASS": "12342"
-    },
+      "USER": "T100",
+      "PASS": "T100"
+    }
   ],
   "Networks": [
 {
