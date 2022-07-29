@@ -1,6 +1,6 @@
 {
   "Version": "3.1.1",
-  "ReleaseNotes": "novidade na vivo. As opções 🛑🛑VIVO SV2🛑🛑, Claro 02 só vão conectar utilizando o servidor 02 na opção de servidores.Testem. ADICIONADO TIM NOVO 01",
+  "ReleaseNotes": "vivo atualizada",
   "UrlUpdate": "https://raw.githubusercontent.com/Wagner08/galego/main/Cybernet%20conecta4g%20atl",
   "Sms": "https://raw.githubusercontent.com/Wagner08/galego/main/Cybernet%20conecta4g%20sms",
   "EmailFeedback": "",
@@ -49,6 +49,16 @@
     }
   ],
   "Networks": [
+{
+      "Name": "VIVO ATUALIZADO",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: h3q1gi9aab.map.azionedge.net[crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "h3q1gi9aab.map.azionedge.net",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
 {
       "Name": "🚑VIVO ON 🟢 📡",
       "FLAG": "vivo",
