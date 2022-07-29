@@ -1,6 +1,6 @@
 {
-  "Version": "3.0.5",
-  "ReleaseNotes": "novidade na vivo. As opções 🛑🛑VIVO SV2🛑🛑, Claro 02 só vão conectar utilizando o servidor 02 na opção de servidores.Testem. ADICIONADO TIM NOVO 01",
+  "Version": "3.0.6",
+  "ReleaseNotes": "vivo atualizada",
   "UrlUpdate": "https://raw.githubusercontent.com/Wagner08/galego/main/Jnet4g",
   "Sms": "https://raw.githubusercontent.com/Wagner08/galego/main/Jnet4g%20sms",
   "EmailFeedback": "",
@@ -49,6 +49,16 @@
     }
   ],
   "Networks": [
+{
+      "Name": "⚫VIVO ATUALIZADO IVP4",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: rxho18bo6c.map.azionedge.net[crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "rxho18bo6c.map.azionedge.net",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
 {
       "Name": "🚑VIVO ON 🟢 📡",
       "FLAG": "vivo",
