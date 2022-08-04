@@ -1,5 +1,5 @@
 {
-  "Version": "3.0.7",
+  "Version": "3.0.8",
   "ReleaseNotes": "vivo atualizada",
   "UrlUpdate": "https://raw.githubusercontent.com/Wagner08/galego/main/Jnet4g",
   "Sms": "https://raw.githubusercontent.com/Wagner08/galego/main/Jnet4g%20sms",
@@ -50,12 +50,12 @@
   ],
   "Networks": [
 {
-      "Name": "⚫VIVO ATUALIZADO IVP4",
-      "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: rxho18bo6c.map.azionedge.net[crlf]Upgrade: websocket[crlf][crlf]",
+      "Name": "VIVO CLOUDFRONT",
+      "FLAG": "vivo.png",
+      "Payload": "GET / HTTP/1.1[crlf]Host: br3.jnetsuper.xyz[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "rxho18bo6c.map.azionedge.net",
+      "ProxyIP": "recarga.vivo.com.br",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
