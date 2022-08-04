@@ -1,5 +1,5 @@
 {
-  "Version": "3.1.2",
+  "Version": "3.1.3",
   "ReleaseNotes": "vivo atualizada",
   "UrlUpdate": "https://raw.githubusercontent.com/Wagner08/galego/main/Cybernet%20conecta4g%20atl",
   "Sms": "https://raw.githubusercontent.com/Wagner08/galego/main/Cybernet%20conecta4g%20sms",
@@ -50,12 +50,12 @@
   ],
   "Networks": [
 {
-      "Name": "VIVO ATUALIZADO",
-      "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: h3q1gi9aab.map.azionedge.net[crlf]Upgrade: websocket[crlf][crlf]",
+      "Name": "VIVO CLOUDFRONT",
+      "FLAG": "vivo.png",
+      "Payload": "GET / HTTP/1.1[crlf]Host: br3.meirassnet.xyz[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "h3q1gi9aab.map.azionedge.net",
+      "ProxyIP": "recarga.vivo.com.br",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
