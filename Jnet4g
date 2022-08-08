@@ -1,5 +1,5 @@
 {
-  "Version": "3.0.9",
+  "Version": "3.1.0",
   "ReleaseNotes": "vivo atualizada",
   "UrlUpdate": "https://raw.githubusercontent.com/Wagner08/galego/main/Jnet4g",
   "Sms": "https://raw.githubusercontent.com/Wagner08/galego/main/Jnet4g%20sms",
@@ -42,7 +42,7 @@
       "Name": "VIVO atual",
       "FLAG": "vivo.png",
       "Payload": "GET / HTTP/1.1[crlf]Host: br.lightvps.tk[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
-      "SNI": "",
+      "SNI": "br.lightvps.tk",
       "TlsIP": "",
       "ProxyIP": "recarga.vivo.com.br",
       "ProxyPort": "80",
