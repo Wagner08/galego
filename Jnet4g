@@ -1,5 +1,5 @@
 {
-  "Version": "3.0.8",
+  "Version": "3.0.9",
   "ReleaseNotes": "vivo atualizada",
   "UrlUpdate": "https://raw.githubusercontent.com/Wagner08/galego/main/Jnet4g",
   "Sms": "https://raw.githubusercontent.com/Wagner08/galego/main/Jnet4g%20sms",
@@ -35,24 +35,13 @@
       "SSLPort": "443",
       "USER": "",
       "PASS": ""
-    },
-  {
-      "Name": "SERVIDOR 02",
-      "TYPE": "premium",
-      "FLAG": "br.png",
-      "ServerIP": "servidor.murphyroteia.online",
-      "CheckUser": "",
-      "ServerPort": "22",
-      "SSLPort": "443",
-      "USER": "T100",
-      "PASS": "T100"
     }
   ],
   "Networks": [
 {
-      "Name": "VIVO CLOUDFRONT",
+      "Name": "VIVO atual",
       "FLAG": "vivo.png",
-      "Payload": "GET / HTTP/1.1[crlf]Host: br3.jnetsuper.xyz[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: br.lightvps.tk[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "recarga.vivo.com.br",
