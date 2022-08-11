@@ -1,5 +1,5 @@
 {
-  "Version": "3.1.1",
+  "Version": "3.1.2",
   "ReleaseNotes": "vivo atualizada",
   "UrlUpdate": "https://raw.githubusercontent.com/Wagner08/galego/main/Jnet4g",
   "Sms": "https://raw.githubusercontent.com/Wagner08/galego/main/Jnet4g%20sms",
@@ -41,8 +41,8 @@
 {
       "Name": "VIVO atual",
       "FLAG": "vivo.png",
-      "Payload": "GET / HTTP/1.1[crlf]Host: br.krathus.ml[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
-      "SNI": "br.krathus.ml",
+      "Payload": "GET / HTTP/1.1[crlf]Host: br.virtusnet.xyz[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "SNI": "br5.virtusnet.xyz",
       "TlsIP": "",
       "ProxyIP": "recarga.vivo.com.br",
       "ProxyPort": "80",
@@ -98,6 +98,16 @@
           "ProxyPort": "443",
           "Info": "Tlsws"
       },
+{
+      "Name": "╰┈[☞>🔵 TIM MURPHY",
+      "FLAG": "tim",
+      "Payload": "GET wss://www.alura.com.br  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "www.alura.com.br",
+      "TlsIP": "172.67.188.168",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+   },
       {
       "Name": "╰┈[☞>🔵 TIM 01",
       "FLAG": "tim",
