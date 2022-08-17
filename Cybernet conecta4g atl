@@ -1,6 +1,6 @@
 {
-  "Version": "3.2.2",
-  "ReleaseNotes": "Tim online adicionado ",
+  "Version": "3.2.3",
+  "ReleaseNotes": "Tim top adicionado ",
   "UrlUpdate": "https://raw.githubusercontent.com/Wagner08/galego/main/Cybernet%20conecta4g%20atl",
   "Sms": "https://raw.githubusercontent.com/Wagner08/galego/main/Cybernet%20conecta4g%20sms",
   "EmailFeedback": "",
@@ -120,11 +120,11 @@
       "Info": "Tlsws"
     },
 {
-      "Name": "╰┈[☞>🔵 TIM atual",
+      "Name": "╰┈[☞>🔵 TIM TOP",
       "FLAG": "tim",
-      "Payload": "GET wss://www.alura.com.br  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "www.alura.com.br",
-      "TlsIP": "172.67.188.168",
+      "Payload": "GET wss://bam.nr-data.net HTTP/1.1[crlf]Host: www.meirassnet.xyz[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "SNI": "bam.nr-data.net",
+      "TlsIP": "bam.nr-data.net",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
