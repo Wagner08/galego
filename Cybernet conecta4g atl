@@ -1,5 +1,5 @@
 {
-  "Version": "3.2.5",
+  "Version": "3.2.6",
   "ReleaseNotes": "vivo atualizado ",
   "UrlUpdate": "https://raw.githubusercontent.com/Wagner08/galego/main/Cybernet%20conecta4g%20atl",
   "Sms": "https://raw.githubusercontent.com/Wagner08/galego/main/Cybernet%20conecta4g%20sms",
@@ -50,15 +50,15 @@
   ],
   "Networks": [
 {
-      "Name": "VIVO ",
-      "FLAG": "vivo.png",
-      "Payload": "GET / HTTP/1.1[crlf]Host: br0.meirassnet.xyz[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
-      "SNI": "br0.meirassnet.xyz",
-      "TlsIP": "",
-      "ProxyIP": "recarga.vivo.com.br",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    },
+      "Name": "🟦 TIM  | VIVO? ",
+      "FLAG": "tim",
+      "Payload": "GET wss://bam.nr-data.net/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "bam.nr-data.net",
+      "TlsIP": "162.247.241.14",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+      }
 {
       "Name": "🚑VIVO Azion🟢 📡",
       "FLAG": "vivo",
